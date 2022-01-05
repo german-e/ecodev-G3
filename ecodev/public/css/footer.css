@@ -1,0 +1,52 @@
+.bg-verde {
+    display: flex;
+    flex-wrap: wrap; 
+    background-color: hsl(60, 9%, 22%) ;
+    padding: 40 px 0;
+    
+
+}
+.fab {
+    margin-right: 7px;
+    size: 15px;
+}
+
+.far {
+    margin-right: 7px;
+    size: 15px;
+}
+.text-sabermas {
+    color: whitesmoke;
+    font-family: "Roboto", "sans-serif";
+    font-size: 15px;
+
+}
+
+.tsm {
+    color: grey;
+    font-family: "Roboto", "sans-serif";
+    font-size: 15px;
+    margin: 4px;
+}
+
+.tsm2  {
+    color: grey;
+    font-family: "Roboto", "sans-serif";
+    font-size: 12px;
+    justify-content:flex-start;
+}
+
+.containerpad ul {
+    text-align: left;
+    text-shadow: white;
+    list-style: none;
+    padding: 3px;
+}
+
+.copy {
+    color: white;
+    align-self: center;
+    font-size: 12px;
+    font-family: "Roboto", "sans-serif";
+}
+
